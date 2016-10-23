@@ -1,0 +1,1299 @@
+[Root]
+Most Recent Package=Standard Setup Package 4
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Standard Setup Package 6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Data\Stock2\Package
+
+[Package|Standard Setup Package 6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 6|Files Found]
+u2fsepv.dll=C:\WINDOWS\Crystal\u2fsepv.dll
+
+[Package|Standard Setup Package 6|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+
+[Package|Standard Setup Package 6|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\vsflex8.ocx=
+E:\Data\Stock2\KonStringLoc\LokasiData.exe=
+
+[Package|Standard Setup Package 6|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 6|Files Added]
+E:\Data\Stock2\KonStringLoc\LokasiData.exe=
+E:\Data\Stock2\StockControl.exe.manifest=
+
+[Package|Standard Setup Package 6|Files Removed]
+
+[Package|Standard Setup Package 6|Files In Project]
+E:\Data\Stock2\StockControl.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+C:\WINDOWS\SYSTEM\vsflex8.ocx=Yes
+C:\WINDOWS\SYSTEM\tidate8.ocx=Yes
+C:\WINDOWS\SYSTEM\tishare8.dll=Yes
+C:\WINDOWS\SYSTEM\tibase8.dll=Yes
+C:\WINDOWS\SYSTEM\tinumb8.ocx=Yes
+C:\WINDOWS\SYSTEM\titext8.ocx=Yes
+E:\Data\Data\Registry\Registri.dll=Yes
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=Yes
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=Yes
+E:\Data\Stock2\ReportDLL\LaporanALE.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=Yes
+C:\WINDOWS\SYSTEM\todg8.ocx=Yes
+C:\WINDOWS\SYSTEM\todgub8.dll=Yes
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Data\Stock2\KonStringLoc\LokasiData.exe=Yes
+E:\Data\Stock2\StockControl.exe.manifest=Yes
+
+[Package|Standard Setup Package 6|Configure Registry Files]
+Applicable=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Register
+
+[Package|Standard Setup Package 6|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 6|Install Locations]
+E:\Data\Stock2\StockControl.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\Crystal\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\vsflex8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tidate8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tishare8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tibase8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tinumb8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\titext8.ocx=$(WinSysPath)
+E:\Data\Data\Registry\Registri.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=$(WinSysPath)
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=$(WinSysPath)
+E:\Data\Stock2\ReportDLL\LaporanALE.dll=$(AppPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\todg8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todgub8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Data\Stock2\KonStringLoc\LokasiData.exe=$(AppPath)
+E:\Data\Stock2\StockControl.exe.manifest=$(AppPath)
+
+[Package|Standard Setup Package 6|Configure Shared Files]
+Applicable=Yes
+E:\Data\Stock2\StockControl.exe=No
+E:\Data\Data\Registry\Registri.dll=No
+E:\Data\Stock2\ReportDLL\LaporanALE.dll=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\Data\Stock2\KonStringLoc\LokasiData.exe=No
+E:\Data\Stock2\StockControl.exe.manifest=No
+
+[Package|Standard Setup Package 6|Distribution]
+Type=single
+Size=
+Title=StockControl
+
+[Package|Standard Setup Package 6|Package]
+PackageFolder=E:\Data\Stock2\Package
+ProjectFolder=E:\Data\Stock2
+ServerSideCab=
+File1=E:\Data\Stock2\Package\setup.exe
+File2=E:\Data\Stock2\Package\Setup.Lst
+File3=E:\Data\Stock2\Package\StockControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Data\Ationg\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+msado27.tlb=E:\Data\User\Package\Support\msado27.tlb
+
+[Package|Standard Setup Package 1|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\vsflex8.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+E:\Data\Ationg\StockControl.exe.manifest=
+E:\Data\Ationg\KosongStock.mdb=
+E:\Data\Ationg\SPB.RPT=
+E:\Data\Ationg\FAKTUR.RPT=
+E:\Data\Ationg\KonStringLoc\LokasiData.exe=
+E:\Data\Ationg\ReCountLaba\Recount.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\Data\Ationg\StockControl.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+C:\WINDOWS\SYSTEM\vsflex8.ocx=Yes
+C:\WINDOWS\SYSTEM\tidate8.ocx=Yes
+C:\WINDOWS\SYSTEM\tishare8.dll=Yes
+C:\WINDOWS\SYSTEM\tibase8.dll=Yes
+C:\WINDOWS\SYSTEM\tinumb8.ocx=Yes
+C:\WINDOWS\SYSTEM\titext8.ocx=Yes
+E:\Data\Data\Registry\Registri.dll=Yes
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=Yes
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=Yes
+E:\Data\Ationg\ReportDLL\LaporanAtiong.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=Yes
+C:\WINDOWS\SYSTEM\todg8.ocx=Yes
+C:\WINDOWS\SYSTEM\todgub8.dll=Yes
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Data\Ationg\StockControl.exe.manifest=Yes
+E:\Data\Ationg\KosongStock.mdb=Yes
+E:\Data\Ationg\SPB.RPT=Yes
+E:\Data\Ationg\FAKTUR.RPT=Yes
+E:\Data\Ationg\KonStringLoc\LokasiData.exe=Yes
+E:\Data\Ationg\ReCountLaba\Recount.exe=Yes
+E:\Data\User\Package\Support\msado27.tlb=Yes
+E:\Data\Ationg\ReCountLaba\msjro.dll=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Register
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\Data\Ationg\StockControl.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\Crystal\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\vsflex8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tidate8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tishare8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tibase8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tinumb8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\titext8.ocx=$(WinSysPath)
+E:\Data\Data\Registry\Registri.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=$(WinSysPath)
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=$(WinSysPath)
+E:\Data\Ationg\ReportDLL\LaporanAtiong.dll=$(AppPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\todg8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todgub8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Data\Ationg\StockControl.exe.manifest=$(AppPath)
+E:\Data\Ationg\KosongStock.mdb=$(AppPath)
+E:\Data\Ationg\SPB.RPT=$(AppPath)
+E:\Data\Ationg\FAKTUR.RPT=$(AppPath)
+E:\Data\Ationg\KonStringLoc\LokasiData.exe=$(AppPath)
+E:\Data\Ationg\ReCountLaba\Recount.exe=$(AppPath)
+E:\Data\User\Package\Support\msado27.tlb=$(WinSysPath)
+E:\Data\Ationg\ReCountLaba\msjro.dll=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\Data\Ationg\StockControl.exe=No
+E:\Data\Data\Registry\Registri.dll=No
+E:\Data\Ationg\ReportDLL\LaporanAtiong.dll=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\Data\Ationg\StockControl.exe.manifest=No
+E:\Data\Ationg\KosongStock.mdb=No
+E:\Data\Ationg\SPB.RPT=No
+E:\Data\Ationg\FAKTUR.RPT=No
+E:\Data\Ationg\KonStringLoc\LokasiData.exe=No
+E:\Data\Ationg\ReCountLaba\Recount.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=StockControl
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=StockControl
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|StockControl]
+Icon1=StockControl.exe
+Title1=StockControl
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\Data\Ationg\Package
+ProjectFolder=E:\Data\Ationg
+ServerSideCab=
+File1=E:\Data\Ationg\Package\setup.exe
+File2=E:\Data\Ationg\Package\Setup.Lst
+File3=E:\Data\Ationg\Package\StockControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Data\Awi\Package
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+u2dpost.dll=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\vsflex8.ocx=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 2|Files Added]
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\windows\system\comdlg32.ocx=
+e:\data\ationg\reportdll\laporanok.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\windows\system\mscomctl.ocx=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt.dll=
+e:\data\data\registry\registri.dll=
+c:\windows\system\scrrun.dll=
+e:\data\awi\stockcontrol.exe=
+c:\windows\system\tdbgpp8.dll=
+c:\windows\system\tibase8.dll=
+c:\windows\system\tidate8.ocx=
+c:\windows\system\tinumb8.ocx=
+c:\windows\system\tishare8.dll=
+c:\windows\system\titext8.ocx=
+c:\windows\system\todg8.ocx=
+c:\windows\system\todgub8.dll=
+c:\windows\system\msvbvm60.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\vsflex8.ocx=
+e:\xceed components\bin\activex\xceedcry.dll=
+e:\xceed components\bin\activex\xceedzip.dll=
+
+[Package|Standard Setup Package 2|Files In Project]
+E:\Data\Awi\StockControl.exe=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+E:\Crystal Reports9\Report Designer Component\craxdrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fsepv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2dapp.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+C:\WINDOWS\SYSTEM\vsflex8.ocx=No
+C:\WINDOWS\SYSTEM\tidate8.ocx=No
+C:\WINDOWS\SYSTEM\tishare8.dll=No
+C:\WINDOWS\SYSTEM\tibase8.dll=No
+C:\WINDOWS\SYSTEM\tinumb8.ocx=No
+C:\WINDOWS\SYSTEM\titext8.ocx=No
+E:\Data\Data\Registry\Registri.dll=No
+C:\WINDOWS\SYSTEM\scrrun.dll=No
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=No
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=No
+E:\Data\Ationg\ReportDLL\LaporanOK.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=Yes
+C:\WINDOWS\SYSTEM\todg8.ocx=No
+C:\WINDOWS\SYSTEM\todgub8.dll=No
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=Register
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+E:\Data\Awi\StockControl.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+E:\Crystal Reports9\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2dapp.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\vsflex8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tidate8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tishare8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tibase8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tinumb8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\titext8.ocx=$(WinSysPath)
+E:\Data\Data\Registry\Registri.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=$(AppPath)
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=$(AppPath)
+E:\Data\Ationg\ReportDLL\LaporanOK.dll=$(AppPath)
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\WINDOWS\SYSTEM\todg8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todgub8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=StockControl
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=E:\Data\Awi\Package
+ProjectFolder=E:\Data\Awi
+ServerSideCab=
+File1=E:\Data\Awi\Package\setup.exe
+File2=E:\Data\Awi\Package\Setup.Lst
+File3=E:\Data\Awi\Package\StockControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|Folder Deployment 1|Root]
+Package=Standard Setup Package 1
+Handler=PDWizard.FolderDplySubWiz
+Folder=E:\Data\Copy of Awi\Package
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=E:\Data\Gypsum
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+craxdrt9.dll=E:\Crystal Reports9\Report Designer Component\craxdrt9.dll
+XceedCry.dll=E:\Xceed Components\Bin\ActiveX\XceedCry.dll
+
+[Package|Dep File 1|Files Released]
+u2dpost.dll=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\vsflex8.ocx=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+c:\windows\system\comdlg32.ocx=
+c:\program files\common files\crystal decisions\2.0\bin\cr9deploy.reg=
+c:\program files\common files\crystal decisions\2.0\bin\cranalyzer.dll=
+c:\program files\common files\crystal decisions\2.0\bin\craxddrt9.dll=
+e:\crystal reports9\report designer component\craxdrt9.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_ado.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_dao.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_dictionary.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_odbc.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crqe.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crtowords_en.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crtslv.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_pdf.dll=
+c:\program files\common files\crystal decisions\2.0\crystalreportviewers\activexviewer\crviewer9.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_rtf.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_wordw.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_xls.dll=
+c:\program files\common files\crystal decisions\2.0\bin\exportmodeller.dll=
+c:\program files\common files\crystal decisions\2.0\bin\exlate32.dll=
+c:\program files\common files\crystal decisions\2.0\bin\filedialog.dll=
+c:\program files\common files\crystal decisions\2.0\bin\implode.dll=
+c:\program files\common files\crystal decisions\2.0\bin\keycode.dll=
+e:\data\ationg\reportdll\laporanok.dll=
+c:\program files\common files\system\ado\msado15.dll=
+c:\windows\system\mscomctl.ocx=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt.dll=
+d:\vbaccel\commondialog\commondialogmaindll\release\mycomdialog.dll=
+c:\program files\common files\crystal decisions\2.0\bin\p2ixbse.dll=
+c:\program files\common files\crystal decisions\2.0\bin\querybuilder.dll=
+e:\data\data\registry\registri.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sacommoncontrols.dll=
+c:\windows\system\scrrun.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscdlg.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscrc.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscsdk80.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u252000.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u25dts.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u25samp1.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2dapp.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ddisk.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fcr.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fsepv.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ftext.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fxml.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2l2000.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lcom.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ldts.dll=
+c:\program files\common files\crystal decisions\2.0\bin\ufmanager.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lfinra.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lexch.dll=
+c:\program files\common files\crystal decisions\2.0\bin\unicows.dll=
+c:\windows\system\msvbvm60.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+e:\xceed components\bin\activex\xceedcry.dll=
+e:\xceed components\bin\activex\xceedzip.dll=
+
+[Package|Dep File 1|Files In Project]
+E:\Data\Gypsum\StockControl.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=No
+E:\Crystal Reports9\Report Designer Component\craxdrt9.dll=No
+C:\WINDOWS\SYSTEM\vsflex8.ocx=Yes
+C:\WINDOWS\SYSTEM\tidate8.ocx=Yes
+C:\WINDOWS\SYSTEM\tishare8.dll=Yes
+C:\WINDOWS\SYSTEM\tibase8.dll=Yes
+C:\WINDOWS\SYSTEM\tinumb8.ocx=Yes
+C:\WINDOWS\SYSTEM\titext8.ocx=Yes
+E:\Data\Data\Registry\Registri.dll=No
+C:\WINDOWS\SYSTEM\scrrun.dll=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=No
+E:\Xceed Components\Bin\ActiveX\XceedCry.dll=No
+E:\Xceed Components\Bin\ActiveX\XceedZip.dll=No
+C:\Program Files\Common Files\SYSTEM\Ado\msado15.dll=No
+E:\Data\Ationg\ReportDLL\LaporanOK.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fsepv.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2dapp.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=No
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=No
+C:\WINDOWS\SYSTEM\todg8.ocx=Yes
+C:\WINDOWS\SYSTEM\todgub8.dll=Yes
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=No
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+E:\Data\Gypsum\StockControl.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\vsflex8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tidate8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tishare8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tibase8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tinumb8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\titext8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todg8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todgub8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=StockControl.CAB
+DepCabRun=StockControl.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=E:\Data\Gypsum
+ProjectFolder=E:\Data\Gypsum
+ServerSideCab=
+File1=E:\Data\Gypsum\StockControl.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Data\Gypsum\Package
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+u2dpost.dll=
+XceedZip.dll=
+XceedCry.dll=
+CRAXDRT9.DLL=
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\vsflex8.ocx=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=
+C:\WINDOWS\SYSTEM\todgub8.dll=
+C:\WINDOWS\SYSTEM\todg8.ocx=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 3|Files Added]
+
+[Package|Standard Setup Package 3|Files Removed]
+c:\windows\system\comdlg32.ocx=
+c:\program files\common files\crystal decisions\2.0\bin\cr9deploy.reg=
+c:\program files\common files\crystal decisions\2.0\bin\cranalyzer.dll=
+c:\program files\common files\crystal decisions\2.0\bin\craxddrt9.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_ado.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_dao.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_dictionary.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crdb_odbc.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crqe.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crtowords_en.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crtslv.dll=
+c:\program files\common files\crystal decisions\2.0\crystalreportviewers\activexviewer\crviewer9.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_pdf.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_rtf.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_wordw.dll=
+c:\program files\common files\crystal decisions\2.0\bin\crxf_xls.dll=
+c:\program files\common files\crystal decisions\2.0\bin\exlate32.dll=
+c:\program files\common files\crystal decisions\2.0\bin\exportmodeller.dll=
+c:\program files\common files\crystal decisions\2.0\bin\filedialog.dll=
+c:\program files\common files\crystal decisions\2.0\bin\implode.dll=
+c:\program files\common files\crystal decisions\2.0\bin\keycode.dll=
+e:\data\ationg\reportdll\laporanok.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\windows\system\mscomctl.ocx=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt.dll=
+c:\program files\common files\crystal decisions\2.0\bin\p2ixbse.dll=
+c:\program files\common files\crystal decisions\2.0\bin\querybuilder.dll=
+e:\data\data\registry\registri.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sacommoncontrols.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscdlg.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscrc.dll=
+c:\program files\common files\crystal decisions\2.0\bin\sscsdk80.dll=
+e:\data\gypsum\stockcontrol.exe=
+c:\program files\common files\crystal decisions\2.0\bin\u252000.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u25dts.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u25samp1.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2dapp.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ddisk.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fcr.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fsepv.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ftext.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2fxml.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2l2000.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2ldts.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lcom.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lexch.dll=
+c:\program files\common files\crystal decisions\2.0\bin\u2lfinra.dll=
+c:\program files\common files\crystal decisions\2.0\bin\ufmanager.dll=
+c:\program files\common files\crystal decisions\2.0\bin\unicows.dll=
+c:\windows\system\msvbvm60.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+e:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\vsflex8.ocx=
+
+[Package|Standard Setup Package 3|Files In Project]
+E:\Data\Gypsum\StockControl.exe=No
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=No
+C:\WINDOWS\SYSTEM\vsflex8.ocx=No
+C:\WINDOWS\SYSTEM\tidate8.ocx=Yes
+C:\WINDOWS\SYSTEM\tishare8.dll=Yes
+C:\WINDOWS\SYSTEM\tibase8.dll=Yes
+C:\WINDOWS\SYSTEM\tinumb8.ocx=Yes
+C:\WINDOWS\SYSTEM\titext8.ocx=Yes
+E:\Data\Data\Registry\Registri.dll=No
+C:\WINDOWS\SYSTEM\scrrun.dll=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=No
+E:\Data\Ationg\ReportDLL\LaporanOK.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\unicows.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_ado.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dao.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_odbc.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\querybuilder.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\exlate32.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_pdf.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_rtf.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_wordw.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\crxf_xls.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fcr.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fsepv.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ftext.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2fxml.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ddisk.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\u2dapp.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\keycode.dll=No
+C:\Program Files\Common Files\Crystal Decisions\2.0\bin\CR9Deploy.reg=No
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=Yes
+C:\WINDOWS\SYSTEM\todg8.ocx=Yes
+C:\WINDOWS\SYSTEM\todgub8.dll=Yes
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+C:\WINDOWS\SYSTEM\tidate8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tishare8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tibase8.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\tinumb8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\titext8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\todg8.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\todgub8.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tdbgpp8.dll=$(WinSysPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=StockControl
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=E:\Data\Gypsum\Package
+ProjectFolder=E:\Data\Gypsum
+ServerSideCab=
+File1=E:\Data\Gypsum\Package\setup.exe
+File2=E:\Data\Gypsum\Package\Setup.Lst
+File3=E:\Data\Gypsum\Package\StockControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Data\Gypsum\Install\paket
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+XceedCry.dll=E:\VBComp\Exeed\Bin\ActiveX\XceedCry.dll
+unicows.dll=F:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\CRAXViewer\unicows.dll
+craxdrt9.dll=F:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll
+
+[Package|Standard Setup Package 4|Files Released]
+u2dpost.dll=
+u2fsepv.dll=
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+E:\VBComp\Exeed\Bin\ActiveX\XceedCry.dll=
+E:\VBComp\Exeed\Bin\ActiveX\XceedZip.dll=
+F:\WINDOWS\system32\tdbgpp8.dll=
+F:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 4|Files Added]
+
+[Package|Standard Setup Package 4|Files Removed]
+
+[Package|Standard Setup Package 4|Files In Project]
+E:\Data\Gypsum\StockControl.exe=Yes
+F:\WINDOWS\system32\msvbvm60.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=Yes
+F:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=Yes
+F:\WINDOWS\system32\vsflex8.ocx=Yes
+F:\WINDOWS\system32\tidate8.ocx=Yes
+F:\WINDOWS\system32\tishare8.dll=Yes
+F:\WINDOWS\system32\tibase8.dll=Yes
+F:\WINDOWS\system32\tinumb8.ocx=Yes
+F:\WINDOWS\system32\titext8.ocx=Yes
+E:\Data\Data\Registry\Registri.dll=Yes
+F:\WINDOWS\system32\scrrun.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+E:\VBComp\Exeed\Bin\ActiveX\XceedCry.dll=Yes
+E:\VBComp\Exeed\Bin\ActiveX\XceedZip.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\CRAXViewer\unicows.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\exlate32.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=Yes
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2fcr.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2fxml.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\u2dapp.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Yes
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=Yes
+F:\WINDOWS\system32\todg8.ocx=Yes
+F:\WINDOWS\system32\todgub8.dll=Yes
+F:\WINDOWS\system32\tdbgpp8.dll=Yes
+F:\WINDOWS\system32\mscomctl.ocx=Yes
+F:\WINDOWS\system32\comdlg32.ocx=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+F:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=Yes
+\Program files\common files\Crystal Decisions\2.0\bin\CR9DEPLOY.REG=Register
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+E:\Data\Gypsum\StockControl.exe=$(AppPath)
+F:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\WINDOWS\system32\vsflex8.ocx=$(WinSysPath)
+F:\WINDOWS\system32\tidate8.ocx=$(WinSysPath)
+F:\WINDOWS\system32\tishare8.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\tibase8.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\tinumb8.ocx=$(WinSysPath)
+F:\WINDOWS\system32\titext8.ocx=$(WinSysPath)
+E:\Data\Data\Registry\Registri.dll=$(AppPath)
+F:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+E:\VBComp\Exeed\Bin\ActiveX\XceedCry.dll=$(WinSysPath)
+E:\VBComp\Exeed\Bin\ActiveX\XceedZip.dll=$(WinSysPath)
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\CRAXViewer\unicows.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscrc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+F:\Program Files\Common Files\Crystal Decisions\2.0\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program Files\Common Files\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2fxml.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\u2dapp.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+\Program files\common files\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=$(AppPath)
+F:\WINDOWS\system32\todg8.ocx=$(WinSysPath)
+F:\WINDOWS\system32\todgub8.dll=$(WinSysPath)
+F:\WINDOWS\system32\tdbgpp8.dll=$(WinSysPath)
+F:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+F:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+F:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+E:\Data\Gypsum\StockControl.exe=No
+E:\Data\Data\Registry\Registri.dll=No
+D:\VBAccel\CommonDialog\CommonDialogMainDLL\Release\myComDialog.dll=No
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=StockControl
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=StockControl
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|StockControl]
+Icon1=StockControl.exe
+Title1=StockControl
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=E:\Data\Gypsum\Install\paket
+ProjectFolder=E:\Data\Gypsum
+ServerSideCab=
+File1=E:\Data\Gypsum\Install\paket\setup.exe
+File2=E:\Data\Gypsum\Install\paket\Setup.Lst
+File3=E:\Data\Gypsum\Install\paket\StockControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

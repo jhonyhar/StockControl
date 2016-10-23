@@ -1,0 +1,21 @@
+[Version]
+Version=1.0.0.0
+
+[StockControl.exe <0009>]
+Dest=$(AppPath)
+Date=24/02/08
+Time=09:20
+Version=1.0.0.0
+CABFilename=StockControl.CAB
+CABINFFile=StockControl.INF
+Uses1=vsflex8.ocx
+Uses2=tidate8.ocx
+Uses3=tinumb8.ocx
+Uses4=titext8.ocx
+Uses5=todg8.ocx
+
+[vsflex8.ocx <0009>]
+Dest=$(WinSysPath)
+Date=06/09/06
+Time=16:41
+Version=8.0.20063.235
